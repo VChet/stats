@@ -19,6 +19,12 @@ mv -v /tmp/generated/* .
 # commit
 git add --all
 
+# Check if there are changes to commit
+if git diff-index --quiet HEAD; then
+  echo "No changes to commit. Exiting."
+  exit 0
+fi
+
 if [ -z "$SCHEDULED_ACTION" ]; then
   git commit -m "Update generated files: $GITHUB_SHA"
 else
