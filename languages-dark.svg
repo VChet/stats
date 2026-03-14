@@ -92,7 +92,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #41b883;width: 27.944%;" class="progress-item"></span><span style="background-color: #3178c6;width: 22.923%;" class="progress-item"></span><span style="background-color: #663399;width: 11.653%;" class="progress-item"></span><span style="background-color: #083fa1;width: 11.253%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 8.967%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.203%;" class="progress-item"></span><span style="background-color: #292929;width: 3.947%;" class="progress-item"></span><span style="background-color: #ff3e00;width: 3.255%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.060%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.794%;" class="progress-item"></span>
+<span style="background-color: #41b883;width: 27.811%;" class="progress-item"></span><span style="background-color: #3178c6;width: 22.839%;" class="progress-item"></span><span style="background-color: #083fa1;width: 11.627%;" class="progress-item"></span><span style="background-color: #663399;width: 11.598%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 8.929%;" class="progress-item"></span><span style="background-color: #e34c26;width: 6.199%;" class="progress-item"></span><span style="background-color: #292929;width: 3.928%;" class="progress-item"></span><span style="background-color: #ff3e00;width: 3.233%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.050%;" class="progress-item"></span><span style="background-color: #f34b7d;width: 1.786%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -105,7 +105,7 @@ div.ellipsis {
         <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
     </svg>
     <span class="lang">Vue</span>
-    <span class="percent">27.94%</span>
+    <span class="percent">27.81%</span>
 </li>
 
 
@@ -115,17 +115,7 @@ div.ellipsis {
         <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
     </svg>
     <span class="lang">TypeScript</span>
-    <span class="percent">22.92%</span>
-</li>
-
-
-<li>
-    <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#663399;"
-    viewBox="0 0 16 16" version="1.1" width="16" height="16">
-        <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
-    </svg>
-    <span class="lang">CSS</span>
-    <span class="percent">11.65%</span>
+    <span class="percent">22.84%</span>
 </li>
 
 
@@ -135,7 +125,17 @@ div.ellipsis {
         <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
     </svg>
     <span class="lang">Markdown</span>
-    <span class="percent">11.25%</span>
+    <span class="percent">11.63%</span>
+</li>
+
+
+<li>
+    <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#663399;"
+    viewBox="0 0 16 16" version="1.1" width="16" height="16">
+        <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
+    </svg>
+    <span class="lang">CSS</span>
+    <span class="percent">11.60%</span>
 </li>
 
 
@@ -145,7 +145,7 @@ div.ellipsis {
         <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
     </svg>
     <span class="lang">JavaScript</span>
-    <span class="percent">8.97%</span>
+    <span class="percent">8.93%</span>
 </li>
 
 
@@ -165,7 +165,7 @@ div.ellipsis {
         <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
     </svg>
     <span class="lang">JSON</span>
-    <span class="percent">3.95%</span>
+    <span class="percent">3.93%</span>
 </li>
 
 
@@ -175,7 +175,7 @@ div.ellipsis {
         <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
     </svg>
     <span class="lang">Svelte</span>
-    <span class="percent">3.25%</span>
+    <span class="percent">3.23%</span>
 </li>
 
 
@@ -185,7 +185,7 @@ div.ellipsis {
         <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
     </svg>
     <span class="lang">SCSS</span>
-    <span class="percent">2.06%</span>
+    <span class="percent">2.05%</span>
 </li>
 
 
